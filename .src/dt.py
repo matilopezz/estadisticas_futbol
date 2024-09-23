@@ -46,7 +46,7 @@ def mensaje_obligatorio(mensaje):
     return valor
 
 
-# Carga de datos
+# Carga de datos.
 def menu():
     equipo = []
     while True:
